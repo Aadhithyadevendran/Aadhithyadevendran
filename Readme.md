@@ -13,6 +13,7 @@ I’m a passionate Computer Science student with an interest in:
 - Hackathons & building real-world impactful applications  
 
 ---
+## 🔭 Current Focus
 
 - Strengthening **problem-solving & DSA skills** (LeetCode, competitive programming)  
 - Aiming for **internship opportunities** to gain industry exposure  
